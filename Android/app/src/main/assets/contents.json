@@ -1,0 +1,1025 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+    {
+      "identifier": "Mahadev",
+      "name": "MAHADEV",
+      "publisher": "Aditya Shewate",
+      "tray_image_file": "Mahadev10.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adityashewate444@gmail.com",
+      "publisher_website": "https://www.instagram.com/shewate_adi_007/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Mahadev1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Mahadev2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Mahadev3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Mahadev4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev16.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev18.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev19.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev20.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev22.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev23.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Mahadev15.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "ganesh",
+      "name": "GANESH BAPPA",
+      "publisher": "Aditya Shewate",
+      "tray_image_file": "Ganesh20.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adityashewate444@gmail.com",
+      "publisher_website": "https://www.instagram.com/shewate_adi_007/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Ganesh1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Ganesh2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Ganesh3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Ganesh4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh20.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh22.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh23.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh24.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh25.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh26.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh27.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh28.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh29.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Ganesh30.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "bajrangbali",
+      "name": "HANUMAN",
+      "publisher": "Aditya Shewate",
+      "tray_image_file": "Hanuman15.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adityashewate444@gmail.com",
+      "publisher_website": "https://www.instagram.com/shewate_adi_007/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Hanuman1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Hanuman2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Hanuman3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Hanuman4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman16.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman18.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman19.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman20.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman22.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman23.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hanuman24.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "Shivaji Maharaj",
+      "name": "Shivaji Maharaj",
+      "publisher": "Aditya Shewate",
+      "tray_image_file": "Maharaj6.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adityashewate444@gmail.com",
+      "publisher_website": "https://www.instagram.com/shewate_adi_007/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Maharaj1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Maharaj2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Maharaj3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Maharaj4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj16.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj18.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj19.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj20.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj22.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj23.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj24.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj25.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj26.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj27.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj28.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj29.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Maharaj30.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "Marathi Festivals",
+      "name": "Festivals",
+      "publisher": "Aniket Jaykar",
+      "tray_image_file": "Fest6.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adiijaykar700@gmail.com",
+      "publisher_website": "https://www.instagram.com/jaykar.aniket/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "Fest16.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest18.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest19.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest20.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest22.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest23.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest24.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest25.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest26.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest27.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest28.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Fest2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Fest3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Fest4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Fest15.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "birthday",
+      "name": "Birthday Wishes",
+      "publisher": "Aniket Jaykar",
+      "tray_image_file": "birth3.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adiijaykar700@gmail.com",
+      "publisher_website": "https://www.instagram.com/jaykar.aniket/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "birth1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "birth2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "birth3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "birth4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth16.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi11.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi20.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "birth18.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "MarathiFonts",
+      "name": "MARATHI FONTS",
+      "publisher": "Aniket Jaykar",
+      "tray_image_file": "Marathi5.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adiijaykar700@gmail.com",
+      "publisher_website": "https://www.instagram.com/jaykar.aniket/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Marathi4.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Marathi3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Marathi1.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi2.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi18.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi19.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi22.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi23.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi24.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi25.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi26.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi27.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi28.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi29.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi32.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi34.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Marathi35.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "indurikar",
+      "name": "Marathi Comdey Stickers",
+      "publisher": "Aniket Jaykar",
+      "tray_image_file": "ayy.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adiijaykar700@gmail.com",
+      "publisher_website": "https://www.instagram.com/jaykar.aniket/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "comedy.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "myimg.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "namaskar.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "think.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "ayy.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Indu1.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Indu2.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "indur1.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "indur2.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "indur3.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "indur4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "indur5.webp",
+          "emojis": ["😩","😰"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "funnyone",
+      "name": "Funny Stickers",
+      "publisher": "Aditya Shewate",
+      "tray_image_file": "funny23.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"adityashewate444@gmail.com",
+      "publisher_website": "https://www.instagram.com/shewate_adi_007/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "funny1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "funny2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "funny3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "funny4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny5.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny6.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny7.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny8.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny9.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny10.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "emojis": ["😩","😰"],
+          "image_file": "funny11.webp"
+        },
+        {
+          "image_file": "funny12.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny13.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny15.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny16.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny17.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny18.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny19.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny20.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny22.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny23.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny24.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny25.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny26.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny27.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny28.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny29.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "funny30.webp",
+          "emojis": ["😩","😰"]
+        }
+      ]
+    }
+  ]
+}
